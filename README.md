@@ -29,8 +29,8 @@ This is a fullstack real-time chat application built using:
    npm install
    nodemon index.js
 
-3.**Start Frontend**
-  ```bash
-  cd my-app
-  npm install
-  npm run dev
+3. **Start Frontend**
+   ```bash
+   cd my-app
+   npm install
+   npm run dev
